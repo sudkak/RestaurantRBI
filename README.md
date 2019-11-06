@@ -12,7 +12,7 @@ As part of the interview process we would like you to complete a coding challeng
 
 3. Accept repo invitation at: (https://github.com/rbilabs/RestaurantChallenge/invitations).
 
-4. When you complete the challenge you should upload your code to a private repo and share with: (__asherper__ && __littlemilkstudio__ && __pdeona__ && __schalal__).
+4. When you complete the challenge you should upload your code to a private repo and share with: (__asherper__ && __littlemilkstudio__ && __pdeona).
 
 ## Initial Setup
 
